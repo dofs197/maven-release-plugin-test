@@ -7,7 +7,7 @@
 
   <scm>
     <developerConnection>scm:git:git@github.com:dofs197/maven-release-plugin-test.git</developerConnection>
-    <tag>HEAD</tag>
+    <tag>v0.0.4</tag>
   </scm>
   
 	<build>
